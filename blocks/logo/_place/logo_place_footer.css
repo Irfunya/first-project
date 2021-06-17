@@ -1,0 +1,6 @@
+.logo_footer {
+  height: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
